@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>My Recipes</title>
+  </head>
+  <body>
+<h2>ritz chicken</h2>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>Sour cream</li>
+        <li>Ritz crackers</li>
+        <li>Boneless skinless chicken breasts</li>
+    </ul>
+    <h3>steps to make rites chicken</h3>
+    <ol>
+        <li>crush the crackersand pour them into a shallow dish</li>
+        <li>Then spray a baking sheet with cooking spray and set it aside before preheating the oven to 350 degrees.</li>
+        <li> Pat chicken dry with a paper towel.</li>
+        <li>Place sour cream in a shallow dish or plate and roll in the sour cream mixture. You’ll be surprised at how well it coats!</li>
+        <li>Roll each chicken breast in cracker crumbs.</li>
+        <li>Place on the prepared baking sheet and put in the oven.</li>
+        <li>Bake for 30 minutes, flip, and then bake for 20 to 30 minutes more until golden brown.</li>
+    </ol>
+    <img src="https://centslessdeals.com/wp-content/uploads/2024/01/Ritz-Cracker-Chicken-TheShortcutKitchen.2.jpg" height="420" width="320">
+    <a href="https://www.southernplate.com/ritz-cracker-chicken/">https://www.southernplate.com/ritz-cracker-chicken/</a>
+    <p><a href="index.html">Back to home page</a></p>
+   </body>
+</html>
